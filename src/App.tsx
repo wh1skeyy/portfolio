@@ -288,20 +288,19 @@ export default function App() {
                   className="text-[15px] font-mono text-black leading-relaxed"
                   style={{ fontFamily: "DM Mono, monospace" }}
                 >
+                  <div>A coder based in Vietnam</div>
+                  <div>&nbsp;</div>
+                  <div>&nbsp;</div>
                   <div>My dog ate my codework</div>
                   <div>It took him a couple of bytes</div>
-                  <div>&nbsp;</div>
-                  <div>&nbsp;</div>
-                  <div>23114X26104</div>
                   <div>
-                    my ig @_wh1skey.shed
+                    23114X26104
                   </div>
                 </div>
                 <div
                   className="text-[15px] font-mono text-black mt-6"
                   style={{ fontFamily: "DM Mono, monospace" }}
                 >
-                  Creative Commons License
                 </div>
               </div>
             </DialogContent>
