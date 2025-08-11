@@ -291,7 +291,7 @@ export default function App() {
                   <div>A coder based in Vietnam</div>
                   <div>&nbsp;</div>
                   <div>&nbsp;</div>
-                  <div>My dog ate my codework</div>
+                  <div>My cat ate my codework</div>
                   <div>It took him a couple of bytes</div>
                   <div>
                     23114X26104
