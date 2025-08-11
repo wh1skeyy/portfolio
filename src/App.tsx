@@ -71,7 +71,7 @@ const models = [
     url: "https://wh1skeybucket.s3.ap-southeast-2.amazonaws.com/Resume.glb",
     baseScale: 0.3,
     position: [0, 0, 0] as [number, number, number],
-    displayURL: "https://github.com/wh1skeyy/portfolio/blob/main/data/DOC/CV-TranLeMinh.pdf",
+    displayURL: "https://wh1skeybucket.s3.ap-southeast-2.amazonaws.com/CV-TranLeMinh.pdf",
   },
   {
     name: "Figma",
