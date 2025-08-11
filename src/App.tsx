@@ -290,8 +290,9 @@ export default function App() {
                 >
                   <div>My dog ate my codework</div>
                   <div>It took him a couple of bytes</div>
-                  <div>C&nbsp;</div>
                   <div>&nbsp;</div>
+                  <div>&nbsp;</div>
+                  <div>23114X26104</div>
                   <div>
                     my ig @_wh1skey.shed
                   </div>
