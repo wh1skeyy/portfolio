@@ -288,12 +288,12 @@ export default function App() {
                   className="text-[15px] font-mono text-black leading-relaxed"
                   style={{ fontFamily: "DM Mono, monospace" }}
                 >
-                  <div>Shiba model by zixisun02</div>
-                  <div>Figma logo by vijay verma</div>
-                  <div>Computer model by tzeshi</div>
-                  <div>Crystal model by GenEugene</div>
+                  <div>My dog ate my codework</div>
+                  <div>It took him a couple of bytes</div>
+                  <div>C&nbsp;</div>
+                  <div>&nbsp;</div>
                   <div>
-                    Pothos (House Plant) by stevencmutter
+                    my ig @_wh1skey.shed
                   </div>
                 </div>
                 <div
